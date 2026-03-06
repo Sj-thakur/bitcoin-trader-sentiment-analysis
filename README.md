@@ -126,7 +126,6 @@ All figures are stored in the **outputs/** directory.
 data/        -> datasets
 notebooks/   -> analysis notebook
 outputs/     -> visualizations
-dashboard/   -> Streamlit dashboard
 ```
 
 ---
